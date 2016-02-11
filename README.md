@@ -1,5 +1,5 @@
 # Firebase JUnit Example
-This is an example of JUnit integration-testing of Firebase-backed Android application.
+This is an example of JUnit integration-testing of Firebase-backed Android java application.
 
 Main files:
 
