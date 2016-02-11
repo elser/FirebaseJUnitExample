@@ -7,9 +7,7 @@ import com.firebase.client.ValueEventListener;
 import java.util.concurrent.Semaphore;
 
 /**
- * TODO: Document this class / interface here
- *
- * @since v7.0
+ * An extension for Firebase's ValueEventListener, which enables simple synchronisation
  */
 public class SyncListener<T> implements ValueEventListener {
     private final Class<T> type;
